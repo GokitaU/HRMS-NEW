@@ -1,0 +1,14 @@
+E:\HRMSystem\HrmsObjects\bin\Release\HrmsObjects.dll
+E:\HRMSystem\HrmsObjects\bin\Release\HrmsObjects.pdb
+E:\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.dll
+E:\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.pdb
+F:\HRMSystem\HRMSystem\bin\HrmsObjects.dll
+F:\HRMSystem\HRMSystem\bin\HrmsObjects.pdb
+F:\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.dll
+F:\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.pdb
+F:\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.csprojResolveAssemblyReference.cache
+E:\HRM BackUp\HRMSystem\HRMSystem\bin\HrmsObjects.dll
+E:\HRM BackUp\HRMSystem\HRMSystem\bin\HrmsObjects.pdb
+E:\HRM BackUp\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.dll
+E:\HRM BackUp\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.pdb
+E:\HRM BackUp\HRMSystem\HrmsObjects\obj\Release\HrmsObjects.csprojResolveAssemblyReference.cache
